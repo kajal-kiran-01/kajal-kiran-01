@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **kajal.kiran.cs28iilm.edu**
+- 📫 How to reach me **kajal.kiran.cs28@iilm.edu**
 
 - ⚡ Fun fact **I think I am funny**
 
